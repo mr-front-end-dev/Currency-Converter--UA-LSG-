@@ -1,0 +1,38 @@
+.button {
+  color: hsl(210, 13%, 50%);
+  background-color: hsl(0, 0%, 100%);
+  border-style: none;
+  font-size: 16px;
+  padding: 8px;
+  margin: 5px;
+  cursor: context-menu;
+}
+
+.button--lightseagreen.button--lightseagreen {
+  background-color: hsl(177, 70%, 41%);
+  color: hsl(0, 0%, 100%);
+}
+
+.button--lightseagreen.button--lightseagreen:hover {
+  background-color: hsl(177, 70%, 46%);
+}
+
+.button:hover {
+  background-color: hsl(0, 0%, 93%);
+}
+
+.button--lightseagreen {
+  background-color: hsl(177, 70%, 41%);
+  color:hsl(0, 0%, 100%);
+  left: 5px;
+}
+
+.button--lightseagreen.button--lightseagreen:hover {
+  background-color: hsl(177, 70%, 46%);
+}
+
+.button--link {
+  color: hsl(0, 0%, 0%);
+  text-decoration: none;
+  cursor: context-menu;
+}
